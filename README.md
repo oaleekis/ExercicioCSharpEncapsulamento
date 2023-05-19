@@ -1,4 +1,4 @@
-## Exercício sobre Classes  CSharp ou mais conhecido por C#
+## Exercício sobre Classes CSharp ou mais conhecido por C#
 
 Em um banco, para se cadastrar uma conta bancária, é necessário informar o número da conta, o nome do
 titular da conta, e o valor de depósito inicial que o titular depositou ao abrir a conta. Este valor de depósito
